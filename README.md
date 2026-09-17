@@ -36,4 +36,4 @@ The project uses a star schema with:
 
 ## Project files
 - Power BI `.pbix` file
-- Dashboard screenshots
+- Dashboard screenshot
