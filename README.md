@@ -35,6 +35,9 @@ The project uses a star schema with:
 - Sales trends by month and week
 - KPI tracking
 
+## Data Source
+Maven Analytics LEGO Sets dataset.
+
 ## Project files
 - Power BI `.pbix` file
 - Dashboard screenshot
