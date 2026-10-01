@@ -36,7 +36,7 @@ The project uses a star schema with:
 - KPI tracking
 
 ## Data Source
-Maven Analytics LEGO Sets dataset.
+Maven Analytics Mexico Toy Sales dataset.
 
 ## Project files
 - Power BI `.pbix` file
