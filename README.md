@@ -1,4 +1,5 @@
 # Toy Store KPI Report
+![LEGO Set Explorer Dashboard IMAGE](dashboard.png)
 
 Power BI project analyzing toy store sales performance using data cleaning, data modeling, DAX calculations, and interactive visualizations.
 
